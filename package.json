@@ -1,0 +1,25 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "read me generator application",
+  "main": "index.js",
+  "scripts": {
+    "test": "enter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dannylkramer/readme-generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "danny kramer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannylkramer/readme-generator/issues"
+  },
+  "homepage": "https://github.com/dannylkramer/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  }
+}
