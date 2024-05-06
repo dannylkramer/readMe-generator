@@ -44,7 +44,7 @@ node index.js
 
 ## Video Walkthrough <a id="video-walkthrough"></a>
  * A video walkthrough of the module will be included here. 
-<iframe src="https://drive.google.com/file/d/1wRwBigYTjxkXDPkhoDz7776Cb1T5aP5P/preview" width="640" height="480"></iframe> 
+[<iframe src="https://drive.google.com/file/d/1wRwBigYTjxkXDPkhoDz7776Cb1T5aP5P/preview" width="640" height="480"></iframe> ](https://drive.google.com/file/d/1wRwBigYTjxkXDPkhoDz7776Cb1T5aP5P/view)
 
 ## Contributing  <a id="contributing"></a>
 * I definitely appreciate any contributions to improve this module! If you have bug fixes, improvements, or new features, you're welcome to create a pull request.
